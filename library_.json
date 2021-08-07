@@ -1,0 +1,21 @@
+{
+"name": "Max485 Library",
+"frameworks": "Arduino",
+"keywords": "BUS, Max485",
+"description": "Read and send BUS",
+"authors":
+[
+    {
+        "name": "Nikola",
+        "email": "niko.at.web",
+        "url": "",
+        "maintainer": true
+    }
+
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/"
+}
+}

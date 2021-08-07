@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For hueControl
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAXbus  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup     KEYWORD2
+receive   KEYWORD2
+getDevID  KEYWORD2
+getState  KEYWORD2
+getALV    KEYWORD2
+getValue  KEYWORD2
+sendOUT   KEYWORD2
+...
+
+#######################################
+# Constants (LITERAL1)
+#######################################
